@@ -1,6 +1,6 @@
 <img src="https://www.uhl1k.com/assets/img/uhl1k.png" alt="drawing" height="200"/>
 
-### Hi there 👋
+### Hi 👋
 
 My name is Roman Janků. I am a full-stack software developer with programming skills in Java, C/C++ and JavaScript. In addition, I run and administer several Linux servers with different services (databases, applications, web services, ...). I also take interest in hardware and low-level programing in C. If you are looking for my software you are at correct place. I have several repositories with opensource projects of mine, namely
 * **Typewriter** - Program for writing novels and poems and organising them
